@@ -16,17 +16,18 @@ is to create a system that would trade life in a robust plarform for decades and
 from: https://www.oldschoolvalue.com/stock-screener/magic-formula-screen.php
 The Magic Formula screener methodolgy he outlined is as follows:
 
-Establish a minimum market capitalization (usually greater than $50 million)
-Exclude utility and financial stocks
-Exclude foreign companies (American Depositary Receipts)
-Determine company’s earnings yield = EBIT / enterprise value
-Determine company’s return on capital = ebit / (net fixed assets + working capital)
-Rank all companies above chosen market capitalization by highest earnings yield and highest return on capital (ranked as percentages)
-Invest in 20–30 highest ranked companies, accumulating 2–3 positions per month over a 12-month period
-Re-balance portfolio once per year, selling losers one week before the year-mark and winners one week after the year mark
-Continue over a long-term (3–5+ year) period
-The two key points of the Magic Formula stock screen is based on:
+1. Establish a minimum market capitalization (usually greater than $50 million)
+2. Exclude utility and financial stocks
+3. Exclude foreign companies (American Depositary Receipts)
+4. Determine company’s earnings yield = EBIT / enterprise value
+5. Determine company’s return on capital = ebit / (net fixed assets + working capital)
+6. Rank all companies above chosen market capitalization by highest earnings yield and highest return on capital (ranked as percentages)
+7. Invest in 20–30 highest ranked companies, accumulating 2–3 positions per month over a 12-month period
+8. Re-balance portfolio once per year, selling losers one week before the year-mark and winners one week after the year mark
+9. Continue over a long-term (3–5+ year) period
+10. The two key points of the Magic Formula stock screen is based on:
 
+notes:
 Earnings Yield = EBIT / Enterprise Value
 
 Return on Capital = EBIT / (Net Fixed Assets + Working Capital)
