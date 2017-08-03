@@ -11,20 +11,58 @@ its a very simple sistem where you take 2 variables, 1) high return (and rank it
 
 #Warning - results should be consider after 5 years holding periods.
 
-#The magic formula (Basic):
+```
+from: https://www.oldschoolvalue.com/stock-screener/magic-formula-screen.php
+The Magic Formula screener methodolgy he outlined is as follows:
+
+Establish a minimum market capitalization (usually greater than $50 million)
+Exclude utility and financial stocks
+Exclude foreign companies (American Depositary Receipts)
+Determine company’s earnings yield = EBIT / enterprise value
+Determine company’s return on capital = ebit / (net fixed assets + working capital)
+Rank all companies above chosen market capitalization by highest earnings yield and highest return on capital (ranked as percentages)
+Invest in 20–30 highest ranked companies, accumulating 2–3 positions per month over a 12-month period
+Re-balance portfolio once per year, selling losers one week before the year-mark and winners one week after the year mark
+Continue over a long-term (3–5+ year) period
+The two key points of the Magic Formula stock screen is based on:
+
+Earnings Yield = EBIT / Enterprise Value
+
+Return on Capital = EBIT / (Net Fixed Assets + Working Capital)
+
+To get the full performance details from 1988 read the link below.
+
+Read more: Does the Magic Formula Screen work?
+
+```
+
+
+
+
+#The magic formula (Explained):
+
 ##Before you start: 
 chose the number of stocks that you want to diversify (minimun 20), suggested: 30 or 50. (more than that and it wouldnt make much sence to invest on your own but to buy the S&P instead.
 
-1st funciton :  Use the Stock Screener to select the top-rated stocks from the S&P CompuStat database. min Market cap of  million
-```note: using odd market cap minimun siz for a company can give you unique porfolios, 74 Million, you will get a different list.
+1st funciton :  
+Use the Stock Screener to select the top-rated stocks from the S&P CompuStat database. min Market cap of 50 million. Exclude utility and financial stocks. Exclude foreign companies (American Depositary Receipts)
+```note: using odd market cap minimun size for a company can give you unique porfolios, 74 Million, you will get a different list.
 example: instead of taking a minimun market cap of  Million, and you choose 
 ```
-2nd funciton: min 20 stocks
-3rd function: Use a cost effective way to purchase the stocks. If the amount you are investing represents a large percentage of your long-term investment portfolio, you may want to consider making multiple portfolio purchases over a 12 month period.
+2nd funciton: 
+Determine company’s earnings yield = EBIT / enterprise value
+Determine company’s return on capital = ebit / (net fixed assets + working capital)
+Rank all companies above chosen market capitalization by highest earnings yield and highest return on capital (ranked as percentages)
+
+3rd function:  
+Invest in 20–30 highest ranked companies, accumulating 2–3 positions per month over a 12-month period
+Use a cost effective way to purchase the stocks. If the amount you are investing represents a large percentage of your long-term investment portfolio, you may want to consider making multiple portfolio purchases over a 12 month period.
 ```step 4th is designed based on actual tax laws that say that you can deduct taxes in stock that are lossing you money if you sell them before the end of the year, and you pay less taxes if you hold you winners for more than a year.
 ```
-4th: sell winners after a year has passed, sell losers before the first year has passed.
-5th": Once you have sold any gains and any losses, select and purchase a new portfolio of screened stocks. (back to function 1)
+4th function:: 
+sell winners after a year has passed, sell losers before the first year has passed.
+5th function:: 
+Once you have sold any gains and any losses, select and purchase a new portfolio of screened stocks. (back to function 1)
 
 --
 
