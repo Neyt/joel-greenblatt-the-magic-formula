@@ -1,15 +1,16 @@
 # joel-greenblatt-the-magic-formula
 This is the investment system described in "The little book that beats the market" by Joel Greenblatt
 
-##Why Joel Greenbaltt?  
+## Why Joel Greenbaltt?  
 Joel is probably a well known investor with the best track record in investing in the stock market. People like Buffett are better know because Joels record extended for just over a decade, after that he close the fund. 
 
-##Why the maggic formula?
+## Why the maggic formula?
 its a very simple sistem where you take 2 variables, 1) high return (and rank it from 1 to X) and how cheap they are (rank it from 1 to X) then add the scores. and thats it! the best ranking stock (the ones that have lower scores are good companies and low prices)
 
-#The goal of this repository is to create a system that would trade life in a robust plarform for decades and show those results with real money, becuase right now as I write this, there no where to find an account that would share live results with this. so people always wonder does it work? The great thing about the magic formula is that a lot of investor could use it without stepping on eachother toes. since depends when you start, you would buy different stock that day, and change them every year. 
+# The goal of this repository:
+is to create a system that would trade life in a robust plarform for decades and show those results with real money, becuase right now as I write this, there no where to find an account that would share live results with this. so people always wonder does it work? The great thing about the magic formula is that a lot of investor could use it without stepping on eachother toes. since depends when you start, you would buy different stock that day, and change them every year. 
 
-#Warning - results should be consider after 5 years holding periods.
+ # Warning - results should be consider after 5 years holding periods.
 
 ```
 from: https://www.oldschoolvalue.com/stock-screener/magic-formula-screen.php
@@ -39,9 +40,9 @@ Read more: Does the Magic Formula Screen work?
 
 
 
-#The magic formula (Explained):
+# The magic formula (Explained):
 
-##Before you start: 
+## Before you start: 
 chose the number of stocks that you want to diversify (minimun 20), suggested: 30 or 50. (more than that and it wouldnt make much sence to invest on your own but to buy the S&P instead.
 
 1st funciton :  
